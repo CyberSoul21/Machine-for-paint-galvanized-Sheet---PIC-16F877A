@@ -1,0 +1,42 @@
+[PROJECT]
+Target=Proyecto_Máquina.HEX
+Development_Mode=2
+Processor=0x877A
+Processor_Text=PIC16F877A
+ToolSuite=CCS
+
+[Directories]
+Include=
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=C:\Documents and Settings\Administrador\Escritorio\Proyecto2\Proyecto_Máquina.c
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+
+[Proyecto_Máquina.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=PROYEC~1.C
+
+[Windows]
+0=0000 PROYEC~1.C 0 0 796 451 3 0
+
+[Opened Files]
+1=Proyecto_Máquina.c
+2=flex_lcd.c
+3=
+4=
+5=
+[Units]
+Count=1
+1=Proyecto_Máquina (main)
